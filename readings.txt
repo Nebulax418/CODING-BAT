@@ -1,0 +1,5 @@
+Read these
+
+https://www.geeksforgeeks.org/python-string-exercise/
+https://pynative.com/python/
+https://pynative.com/python-exercises-with-solutions/

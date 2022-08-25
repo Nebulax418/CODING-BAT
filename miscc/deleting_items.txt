@@ -1,0 +1,16 @@
+list.remove deletes by value not by index
+
+del deletes by index
+
+pop stores the deleted item
+
+NEVER EVER USE REMOVE WHILE ITERATING OVER A FOR LOOP
+
+USE A LIST COPY
+
+LIST[:]
+
+OR JUST USE LIST COMPREHENSION
+https://stackoverflow.com/questions/6260089/strange-result-when-removing-item-from-a-list-while-iterating-over-it
+
+
